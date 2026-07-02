@@ -1,5 +1,5 @@
 const { getTime } = global.utils;
-const title = "🏦| 𝗩𝗼𝗹𝗱𝗶𝗕𝗮𝗻𝗸 v1.0";
+const title = "🏦| 𝗦𝗵𝗮𝗱𝗲𝗕𝗮𝗻𝗸 v1.0";
 
 module.exports = {
   config: {
@@ -12,7 +12,7 @@ module.exports = {
       vi: "Hệ thống ngân hàng đơn giản với các tính năng cơ bản",
       en: "Simple banking system with essential features"
     },
-    category: "game",
+    category: "economy",
     guide: {
       vi: "Sử dụng {pn} help để xem tất cả lệnh",
       en: "Use {pn} help to see all commands"
